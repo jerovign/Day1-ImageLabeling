@@ -8,7 +8,13 @@ This contains an image editor application that opens a picture of coins and make
 
 ## Setup
 
-(Instructions Here)
+To load all necessaries dependencies, run in the terminal:
+
+```bash
+cd /working_directory/ # your working directory
+conda env create -p ./venv -f environment.yaml	# Load the environment
+conda activate ./venv # Activate the environment
+```
 
 ## Running the App
 
